@@ -10,8 +10,8 @@
     "gh-pages": "^2.1.1",
     "jest-canvas-mock": "^2.3.1",
     "lottie-react": "^2.4.0",
-    "react": "^16.10.2",
-    "react-dom": "^16.10.2",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
     "react-easy-emoji": "^1.8.1",
     "react-headroom": "^3.0.0",
     "react-reveal": "^1.2.2",
@@ -54,5 +54,17 @@
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "dotenv": "^8.2.0",
     "prettier": "^2.3.1"
+  },
+  "description": "## A clean, beautiful and responsive portfolio template for Developers!",
+  "main": "fetch.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saadpasta/developerFolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saadpasta/developerFolio/issues"
   }
 }
